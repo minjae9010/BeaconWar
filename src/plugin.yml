@@ -1,0 +1,12 @@
+name: BeaconWars
+version: 1.0
+main: tk.mjsv.main
+authors: [ minjae9010 ]
+description: Support BeaconWars system
+commands:
+  타이머:
+    description: 타이머
+  남은시간:
+    description: 타이머 남은시간 확인가능
+  팀:
+    description: 팀 시스템
